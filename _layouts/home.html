@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  {%- if site.pages.size > 0 -%}
+    <ul class="topics">
+    {%- for page in site.pages -%}
+      {%- if page.title -%}
+        <li class="topic"><a class="topic-text" href="{{page.url}}">{{page.title}}</a></li>
+      {%- endif -%}
+    {%- endfor -%}
+    </ul>
+  {%- endif -%}
+
+</div>

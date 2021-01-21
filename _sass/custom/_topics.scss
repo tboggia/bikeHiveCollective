@@ -1,0 +1,20 @@
+
+.topics {
+  list-style: none;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  grid-gap: 10px;
+}
+.topic {
+  &-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid $grey-color;
+    padding: 10px;
+    height: 100px;
+    width: 100px;
+    font-size: 1.2em;
+    
+  }
+}

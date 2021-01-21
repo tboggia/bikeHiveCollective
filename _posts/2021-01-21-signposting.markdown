@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Signposting"
+title:  Signposting
 date:   2021-01-21 00:52:21 -0800
 categories: tactics
 ---

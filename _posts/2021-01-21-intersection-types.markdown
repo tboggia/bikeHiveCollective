@@ -1,8 +1,19 @@
 ---
 layout: post
-title:  "Signposting"
+title:  "Intersection Types"
 date:   2021-01-21 00:52:21 -0800
-categories: tactics
+categories: practices
 ---
 
-Leapfrog posting directional arrows, sweep team pulls them down.
+This is how we handle different types of intersections:
+<pre>
+___| |___
+___   ___
+   | |
+</pre>
+
+<pre>
+___| |
+___  |
+   | |
+</pre>

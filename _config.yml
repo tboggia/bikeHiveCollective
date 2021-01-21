@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Bike Hive Collective/The Intersectionalists
+title: The Intersectionalists
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   A bike of bees in service of radical actions.

@@ -2,7 +2,7 @@
 layout: post
 title:  "Stop the other side of the intersection"
 date:   2021-01-21 00:52:21 -0800
-categories: tactics
+categories: tactics practices
 ---
 
 Rather than blocking the street where the caravan is, stop cars from turning into the block before:
